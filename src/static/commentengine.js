@@ -29,7 +29,7 @@
 		var data = {
 			comments: [
 				{ author: "John", date: new Date().getTime(), message: "My name is john.  I really like commenting on things.  This seems like a good-enough thing for me to comment on." },
-				{ author: "Bill", date: new Date().getTime(), message: "My name is bill.  I also like commenting on things.  Your comment seems worth responding too.  I sometimes write a lot just to see how line wrapping and page formatting are affected.  It can be interesting to see how different sites handle that kind of thing." },
+				{ author: "Bill", date: new Date().getTime(), message: "My name is bill.  I also like commenting on things.  Your comment seems worth responding to.  I sometimes write a lot just to see how line wrapping and page formatting are affected.  It can be interesting to see how different sites handle that kind of thing." },
 				{ author: "Carl", date: new Date().getTime(), message: "I don't have much to say." }
 			]
 		};
